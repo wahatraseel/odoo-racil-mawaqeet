@@ -4,7 +4,7 @@ import { registry } from "@web/core/registry";
 import { computeTimes, PRAYERS } from "./lib/prayer_times";
 import { addDays, localDate, toHijri } from "./lib/hijri";
 
-const DATA_URL = "/mawaqeet_prayer_times/static/data";
+const DATA_URL = "/racil_mawaqeet/static/data";
 
 /** Arabic normalisation used for Quran / Hadith search. */
 export function normalizeArabic(s) {

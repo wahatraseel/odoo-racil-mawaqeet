@@ -17,7 +17,7 @@ import {
 import { dayIndex, fmtCountdown, fmtTime } from "./mawaqeet_service";
 
 export class MawaqeetDashboard extends Component {
-    static template = "mawaqeet_prayer_times.Dashboard";
+    static template = "racil_mawaqeet.Dashboard";
     static props = ["*"];
 
     setup() {
@@ -319,7 +319,7 @@ export class MawaqeetDashboard extends Component {
         window.print();
     }
     openSettings() {
-        this.action.doAction("mawaqeet_prayer_times.action_mawaqeet_settings");
+        this.action.doAction("racil_mawaqeet.action_mawaqeet_settings");
     }
     go(tag) {
         this.action.doAction(tag);

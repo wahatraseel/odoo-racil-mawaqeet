@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templates xml:space="preserve">
-    <t t-name="mawaqeet_prayer_times.Hadith">
+    <t t-name="racil_mawaqeet.Hadith">
         <div class="o_action o_mw_app o_mw_reader" dir="rtl">
             <aside t-attf-class="o_mw_side {{ ui.sidebar ? 'o_mw_side_open' : '' }}">
                 <div class="o_mw_side_head">

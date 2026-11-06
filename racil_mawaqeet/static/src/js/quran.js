@@ -23,7 +23,7 @@ const lsSet = (k, v) => {
 };
 
 export class MawaqeetQuran extends Component {
-    static template = "mawaqeet_prayer_times.Quran";
+    static template = "racil_mawaqeet.Quran";
     static props = ["*"];
 
     setup() {

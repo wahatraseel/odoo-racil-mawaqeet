@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templates xml:space="preserve">
-    <t t-name="mawaqeet_prayer_times.Systray">
+    <t t-name="racil_mawaqeet.Systray">
         <div class="o_mawaqeet_systray" t-if="visible">
             <Dropdown position="'bottom-end'" menuClass="'o_mawaqeet_systray_menu p-0'">
                 <button class="o_mawaqeet_systray_btn d-flex align-items-center gap-1" dir="rtl" title="مواقيت الصلاة">

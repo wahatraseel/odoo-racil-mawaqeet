@@ -8,7 +8,7 @@ import { formatHijri } from "./lib/hijri";
 import { fmtCountdown, fmtTime } from "./mawaqeet_service";
 
 export class MawaqeetSystray extends Component {
-    static template = "mawaqeet_prayer_times.Systray";
+    static template = "racil_mawaqeet.Systray";
     static components = { Dropdown };
     static props = {};
 

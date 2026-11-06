@@ -18,7 +18,7 @@
     </record>
 
     <menuitem id="menu_mawaqeet_root" name="Mawaqeet" sequence="95"
-              web_icon="mawaqeet_prayer_times,static/description/icon.png"
+              web_icon="racil_mawaqeet,static/description/icon.png"
               action="action_mawaqeet_dashboard"/>
     <menuitem id="menu_mawaqeet_dashboard" name="Prayer Times" parent="menu_mawaqeet_root"
               action="action_mawaqeet_dashboard" sequence="1"/>

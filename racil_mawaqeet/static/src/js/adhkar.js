@@ -9,7 +9,7 @@ import { arNum } from "./lib/hijri";
  * type 0 = both, 1 = morning only, 2 = evening only.
  */
 export class MawaqeetAdhkar extends Component {
-    static template = "mawaqeet_prayer_times.Adhkar";
+    static template = "racil_mawaqeet.Adhkar";
     static props = ["*"];
 
     setup() {

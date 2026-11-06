@@ -12,7 +12,7 @@ const BOOKS = [
 const PAGE = 40;
 
 export class MawaqeetHadith extends Component {
-    static template = "mawaqeet_prayer_times.Hadith";
+    static template = "racil_mawaqeet.Hadith";
     static props = ["*"];
 
     setup() {
