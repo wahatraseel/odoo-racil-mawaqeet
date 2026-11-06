@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templates xml:space="preserve">
-    <t t-name="mawaqeet_prayer_times.Adhkar">
+    <t t-name="racil_mawaqeet.Adhkar">
         <div class="o_action o_mw_app o_mw_adhkar" dir="rtl">
             <t t-if="ui.book">
                 <header class="o_mw_adhkar_head">

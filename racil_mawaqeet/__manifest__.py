@@ -25,10 +25,10 @@ and the Forty Hadith of An-Nawawi and Riyad As-Salihin. All data ships inside th
     ],
     "assets": {
         "web.assets_backend": [
-            "mawaqeet_prayer_times/static/src/scss/mawaqeet.scss",
-            "mawaqeet_prayer_times/static/src/js/lib/*.js",
-            "mawaqeet_prayer_times/static/src/js/*.js",
-            "mawaqeet_prayer_times/static/src/xml/*.xml",
+            "racil_mawaqeet/static/src/scss/mawaqeet.scss",
+            "racil_mawaqeet/static/src/js/lib/*.js",
+            "racil_mawaqeet/static/src/js/*.js",
+            "racil_mawaqeet/static/src/xml/*.xml",
         ],
     },
     "images": ["static/description/banner.png"],

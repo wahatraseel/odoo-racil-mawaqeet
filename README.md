@@ -13,7 +13,7 @@
 - **الإعدادات** (للمدير): المدينة/الإحداثيات، طريقة الحساب، مذهب العصر، تعديل الهجري، تعديل دقائق كل صلاة، الشريط العلوي، التنبيهات.
 
 ## التثبيت
-1. انسخ مجلد `mawaqeet_prayer_times` (من فرع الإصدار المناسب 18.0 أو 19.0) إلى مسار الإضافات.
+1. انسخ مجلد `racil_mawaqeet` (من فرع الإصدار المناسب 18.0 أو 19.0) إلى مسار الإضافات.
 2. حدّث قائمة التطبيقات ثم ثبّت «Mawaqeet».
 3. الإعدادات ← مواقيت: اختر مدينتك واحفظ.
 
@@ -44,6 +44,6 @@
 Free Odoo 18/19 app: Umm Al-Qura prayer times (official Saudi method), Umm Al-Qura Hijri calendar, Qibla,
 the Holy Quran (King Fahd Complex Uthmani Hafs text & font) with Tafsir Al-Muyassar, and the Forty Hadith
 of An-Nawawi + Riyad As-Salihin. Offline, no external API, multi-company, per-user private bookmarks.
-Tests: `--test-tags=/mawaqeet_prayer_times`.
+Tests: `--test-tags=/racil_mawaqeet`.
 
 Author: Racil Oasis Trading Co. (واحة رسيل) — https://wahatraseel.com — info@wahatraseel.com — License: LGPL-3

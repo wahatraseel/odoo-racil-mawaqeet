@@ -6,7 +6,7 @@
         <field name="inherit_id" ref="base.res_config_settings_view_form"/>
         <field name="arch" type="xml">
             <xpath expr="//form" position="inside">
-                <app data-string="Mawaqeet" string="Mawaqeet" name="mawaqeet_prayer_times">
+                <app data-string="Mawaqeet" string="Mawaqeet" name="racil_mawaqeet">
                     <block title="Location" name="mawaqeet_location">
                         <setting string="Saudi City Preset" company_dependent="1"
                                  help="Pick one of the 173 official Umm Al-Qura locations (cities and governorates of Saudi Arabia) to fill in the official coordinates, or type your own below.">
@@ -77,6 +77,6 @@
         <field name="name">Settings</field>
         <field name="res_model">res.config.settings</field>
         <field name="view_mode">form</field>
-        <field name="context">{'module': 'mawaqeet_prayer_times', 'bin_size': False}</field>
+        <field name="context">{'module': 'racil_mawaqeet', 'bin_size': False}</field>
     </record>
 </odoo>

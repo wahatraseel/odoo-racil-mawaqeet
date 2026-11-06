@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <templates xml:space="preserve">
-    <t t-name="mawaqeet_prayer_times.KaabaIcon">
+    <t t-name="racil_mawaqeet.KaabaIcon">
         <svg viewBox="0 0 64 64" class="o_mw_kaaba" aria-hidden="true">
             <path d="M12 22 L32 14 L52 22 L52 50 L32 58 L12 50 Z" fill="#111"/>
             <path d="M12 22 L32 30 L52 22 L32 14 Z" fill="#2a2a2a"/>
@@ -10,7 +10,7 @@
         </svg>
     </t>
 
-    <t t-name="mawaqeet_prayer_times.Dashboard">
+    <t t-name="racil_mawaqeet.Dashboard">
         <div class="o_action o_mw_app o_mw_dashboard" dir="rtl">
             <t t-if="state.ready">
                 <!-- HERO -->
@@ -98,7 +98,7 @@
                                 <span class="o_mw_n">ش</span><span class="o_mw_e">ق</span><span class="o_mw_s">ج</span><span class="o_mw_w">غ</span>
                                 <div class="o_mw_needle" t-attf-style="transform: rotate({{ qibla }}deg)">
                                     <div class="o_mw_needle_bar"/>
-                                    <div class="o_mw_needle_kaaba"><t t-call="mawaqeet_prayer_times.KaabaIcon"/></div>
+                                    <div class="o_mw_needle_kaaba"><t t-call="racil_mawaqeet.KaabaIcon"/></div>
                                 </div>
                                 <div class="o_mw_hub"/>
                             </div>
