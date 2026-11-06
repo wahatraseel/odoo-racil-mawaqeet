@@ -10,8 +10,10 @@ and the Forty Hadith of An-Nawawi and Riyad As-Salihin. All data ships inside th
     """,
     "version": "18.0.2.1.1",
     "category": "Productivity",
-    "author": "Mostafa Ibrahim Salem",
-    "website": "",
+    "author": "Racil Oasis Trading Co. (واحة رسيل)",
+    "maintainer": "Racil Oasis Trading Co.",
+    "website": "https://wahatraseel.com",
+    "support": "info@wahatraseel.com",
     "license": "LGPL-3",
     "depends": ["base", "web"],
     "data": [

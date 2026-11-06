@@ -46,4 +46,4 @@ the Holy Quran (King Fahd Complex Uthmani Hafs text & font) with Tafsir Al-Muyas
 of An-Nawawi + Riyad As-Salihin. Offline, no external API, multi-company, per-user private bookmarks.
 Tests: `--test-tags=/mawaqeet_prayer_times`.
 
-Author: Mostafa Ibrahim Salem — License: LGPL-3
+Author: Racil Oasis Trading Co. (واحة رسيل) — https://wahatraseel.com — info@wahatraseel.com — License: LGPL-3
